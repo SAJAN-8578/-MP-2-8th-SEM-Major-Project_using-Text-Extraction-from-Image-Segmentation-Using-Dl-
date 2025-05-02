@@ -1,0 +1,4 @@
+This project involves extracting text from both handwritten and printed images using a combination of image segmentation, deep learning, and OCR techniques. 
+We used Convolutional Neural Networks (CNN) for segmenting and recognizing characters, and integrated Tesseract OCR to enhance text extraction accuracy. 
+The system was trained to process complex image inputs and achieved up to 92% accuracy in recognizing and extracting text.
+The project was developed as part of our final-year major project, carried out in a team of three members who collaboratively handled model training, OCR integration, and performance testing.
